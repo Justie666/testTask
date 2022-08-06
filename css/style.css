@@ -242,7 +242,7 @@ ol {
   height: 20px;
   right: 0;
   top: 0;
-  background: url("/img/icons/arrow.svg") no-repeat center;
+  background: url("../img/icons/arrow.svg") no-repeat center;
 }
 .widget__title--active::after {
   -webkit-transform: rotate(180deg);
@@ -397,7 +397,7 @@ ol {
   position: absolute;
   width: 18px;
   height: 18px;
-  background: url("/img/icons/check.svg") no-repeat center;
+  background: url("../img/icons/check.svg") no-repeat center;
 }
 .checkbox__real:checked ~ .checkbox__title {
   font-weight: 500;

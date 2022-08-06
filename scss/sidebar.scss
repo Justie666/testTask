@@ -42,7 +42,7 @@
       height: 20px;
       right: 0;
       top: 0;
-      background: url('/img/icons/arrow.svg') no-repeat center;
+      background: url('../img/icons/arrow.svg') no-repeat center;
     }
     &--active::after {
       transform: rotate(180deg);
@@ -202,7 +202,7 @@
         position: absolute;
         width: 18px;
         height: 18px;
-        background: url('/img/icons/check.svg') no-repeat center;
+        background: url('../img/icons/check.svg') no-repeat center;
       }
     }
 
