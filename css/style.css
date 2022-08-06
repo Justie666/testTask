@@ -154,7 +154,7 @@ ol {
   display: inline-block;
   width: 16px;
   height: 11px;
-  background: url("/img/icons/metro.svg") no-repeat;
+  background: url("../img/icons/metro.svg") no-repeat;
   vertical-align: baseline;
   margin-right: 10px;
 }
